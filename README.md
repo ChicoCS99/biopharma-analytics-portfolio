@@ -1,6 +1,6 @@
 # Python for Bioentrepreneurship & Biotech Strategy 🧬💼
 
-** 14 Applied Data Science Projects for the Biopharma and Healthcare Industry **
+**14 Applied Data Science Projects for the Biopharma and Healthcare Industry**
 
 ## 📌 Executive Summary
 Welcome to my technical portfolio. As a Medicinal and Pharmaceutical Chemistry graduate currently pursuing an MSc in Bioentrepreneurship, I am actively developing my tech stack to bridge the gap between pure science and data analytics.
