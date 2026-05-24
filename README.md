@@ -1,13 +1,13 @@
 # Python for Bioentrepreneurship & Biotech Strategy 🧬💼
 
-**14 Advanced Data Science & Programming Projects Bridging Life Sciences, Venture Capital, and Market Access**
+** 14 Applied Data Science Projects for the Biopharma and Healthcare Industry **
 
 ## 📌 Executive Summary
-Welcome to my technical portfolio. As a graduate in Medicinal and Pharmaceutical Chemistry transitioning into strategic consulting and biotech venture capital, and currently pursuing an MSc in Bioentrepreneurship, I engineered this repository to bridge the gap between technical science and commercial strategy.
+Welcome to my technical portfolio. As a Medicinal and Pharmaceutical Chemistry graduate currently pursuing an MSc in Bioentrepreneurship, I am actively developing my tech stack to bridge the gap between pure science and data analytics.
 
-This portfolio contains 14 sequential projects. Moving beyond basic computer science syntax, **every project is strictly applied to real-world biopharma scenarios**—ranging from asset valuation (rNPV) and market analysis to clinical trial simulation and investment due diligence.
+This repository is a domain-specific adaptation of the renowned [University of Helsinki Python MOOC](https://programming-26.mooc.fi/). Instead of standard academic exercises, I engineered 14 sequential projects strictly applied to real-world biopharma scenarios—ranging from asset valuation (rNPV) and market analysis to clinical trial simulations and due diligence.
 
-The second half of this curriculum deliberately pivots away from standard academic exercises to master industry-standard data tools like **Pandas, NumPy, Web Scraping, APIs, and Streamlit**.
+The second half of this curriculum deliberately pivots to master industry-standard data tools like *Pandas, NumPy, Web Scraping, APIs, and Streamlit.*
 
 ## 🛠 Tech Stack & Frameworks
 * **Core Languages & Logic:** Python 3, Object-Oriented Programming (OOP), Functional Programming, Regex
