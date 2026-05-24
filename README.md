@@ -38,4 +38,4 @@ The second half of this curriculum deliberately pivots to master industry-standa
 ## 🚀 How to Navigate & Run
 Clone the repository:
 ```bash
-git clone [https://github.com/ChicoCS99/biopharma-analytics-portfolio.git](https://github.com/ChicoCS99/biopharma-analytics-portfolio.git)
+git clone [https://github.com/emamancini/biopharma-analytics-portfolio.git](https://github.com/emamancini/biopharma-analytics-portfolio.git)
